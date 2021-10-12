@@ -1,0 +1,11 @@
+{
+    "name": "DiToken2",
+    "website": "https://testnet.bscscan.com",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x7B961CbE548887d5091677E1Df47b3d98e9F1b9e",
+    "type": "BEP20",
+    "symbol": "DT2",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7B961CbE548887d5091677E1Df47b3d98e9F1b9e"
+   }

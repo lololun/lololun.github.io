@@ -1,0 +1,11 @@
+{
+    "name": "BNB",
+    "website": "https://bscscan.com",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x0000000000000000000000000000000000000000",
+    "type": "BEP20",
+    "symbol": "BNB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0000000000000000000000000000000000000000"
+   }
